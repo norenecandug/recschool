@@ -31,7 +31,6 @@
 <!--body-->
 <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="60">
   <!--home-->
-  <section id="home" class="home home-text">
     <div class="bg-color">
       <nav class="navbar navbar-default navbar-fixed-top navbar-expand-lg">
         <div class="container">
@@ -49,33 +48,17 @@
           </div>
         </div>
       </nav>
-      <div class="container">
-        <div class="col-md-12">
-          <div class="home-info">
-            <div class="text-left">
-              <h1 style="color:white; text-shadow: #FC0 1px 0 10px;">Introduction</h1>
-              <div id="int"><p style="color:white;"> Established on 1998, REC School was built by Rebecca, Ernesto and Camillo Sabigan. It is located at Cogeo, Padilla, Antipolo City in Rizal.</p><br><br><br></div>
-              <h1><a href="#mission"><i style="color: black" class="fa fa-angle-down"></i></a></h1>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section><!--home-->
+	<div id="text3">
+			<h2>Questions or Comments?</h2>
+			<p> Got a question? We'd love to hear from you. Send us a message and we'll try to respond as soon as possible. </p>
+			<form method="POST">
+				Name: <input type="text" name="name" placeholder="Type your name" > <br>
+				Email:<input type="text" name="email" placeholder="Email here!"required> <br><br>
+				Message: <textarea rows="8" cols="80" name="message" required>
+				</textarea><br><br>
+				<input type="submit" name="submit" value="SUBMIT">
+	</div>
 
-  <!--mission-->
-  <section id="mission" class="section-padding">
-      <div class="row">
-           <img src="https://image.ibb.co/bNDms0/Mission.jpg" style="width:100%"> 
-      </div>
-  </section><!--mission-->
-
-  <!--about-->
-  <section id="anthem" class="section-padding">
-    <div class="row">
-           <img src="https://image.ibb.co/exvD5L/Anthem.jpg" style="width:100%"> 
-      </div>
-  </section><!--about-->
 
   <!-- Footer -->
 <section>
@@ -83,7 +66,7 @@
 	<div class="container-fluid padding">
 			<div class="col-12">
 				<div class="text-center" style="margin-top: 4%">
-					<h5><a href="#mission">About Us </a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; <a href="contact.php"> Contact Us </a> </h5>
+					<h5><a href="index.php">About Us </a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; <a href="contact.php"> Contact Us </a> </h5>
 					<h5><a href="policy.php"> Privacy Policy </a> </h5>
 				</div>
 			</div>
@@ -94,3 +77,4 @@
 <!-- Ending of Footer -->
 
 </body><!--body-->
+</html>
