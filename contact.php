@@ -41,7 +41,7 @@
             <div class="collapse navbar-collapse navbar-right" id="myNavbar">
               <ul class="nav navbar-nav" style="margin-top: 2.5%">
                 <li class="nav-item"><a style="color:white" href="index.php">Home</a></li> 
-                <li class="nav-item"><a style="color:white" href="#mission">About Us</a></li>
+                <li class="nav-item"><a style="color:white" href="index.php">About Us</a></li>
                 <li class="nav-item active"><a style="color:white" href="contact.php">Contact Us!</a></li>
               </ul>
             </div>
