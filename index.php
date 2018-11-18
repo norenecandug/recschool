@@ -55,7 +55,7 @@
             <div class="text-left">
               <h1 style="color:white; text-shadow: #FC0 1px 0 10px;">Introduction</h1>
               <div id="int"><p style="color:white;"> Established on 1998, REC School was built by Rebecca, Ernesto and Camillo Sabigan. It is located at Cogeo, Padilla, Antipolo City in Rizal.</p><br><br><br></div>
-              <h1><a href="#mission"><i style="color: black" class="fa fa-angle-down"></i></a></h1>
+              <h1><a href="#mission"><i style="color: white" class="fa fa-angle-down"></i></a></h1>
             </div>
           </div>
         </div>
