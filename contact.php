@@ -36,7 +36,7 @@
         <div class="container">
           <div class="col-md-12">
             <div class="navbar-header">
-              <a class="navbar-brand" href="#"><h4 style="margin-top: 0; color: white"> <b>R.E.C School</b></h4></a>
+              <a class="navbar-brand" href="index.php"><h4 style="margin-top: 0; color: white"> <b>R.E.C School</b></h4></a>
             </div>
             <div class="collapse navbar-collapse navbar-right" id="myNavbar">
               <ul class="nav navbar-nav" style="margin-top: 2.5%">
