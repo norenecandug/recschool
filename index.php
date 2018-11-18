@@ -66,14 +66,14 @@
   <!--mission-->
   <section id="mission" class="section-padding">
       <div class="row">
-           <img src="mission.jpg" style="width:100%"> 
+           <img src="https://image.ibb.co/bNDms0/Mission.jpg" style="width:100%"> 
       </div>
   </section><!--mission-->
 
   <!--about-->
   <section id="anthem" class="section-padding">
     <div class="row">
-           <img src="anthem.jpg" style="width:100%"> 
+           <img src="https://image.ibb.co/exvD5L/Anthem.jpg" style="width:100%"> 
       </div>
   </section><!--about-->
 
